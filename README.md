@@ -50,6 +50,6 @@ Once Testing is Done
 - After deleting the rules, both ports became reachable again.
 
 ## Repository contents
-Phishing-Email-Analysis/ 
-├── README.md ← (this report) 
-├── screenshots 
+Setup-and-Use-a-Firewall-on-Windows
+ ├── README.md ← (this report) 
+ ├── screenshots 
